@@ -27,27 +27,21 @@ HealthSage is built to address these challenges by providing an intuitive platfo
 # Explanation of Files
 
 ## training.csv
-
-- This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
+This is the main dataset which has been used in this project. This dataset consist of mainly two columns "Disease" and "Symptoms" but this dataset is preprocessed so it helps in easily clasifying the data. This dataset is used to train our model.
 
 ## testing.csv
-
-- This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
+ This is the dataset which has been used to test our model so that we can know the accuracy of our model. this dataset is predefined with output.
 
 ## Database
-
 The database used in this project is "sqlite" whose name is database.db which consist of four tables in which we have shown the results of four different algorithms.we are saving the results of users with their names for future preferences.
 
 ## GUI.py
-
 This is the file which is used to create the interface of our system.GUI stands for Graphical User Interface and to create it we have used Tkinter which gives a software kind of view to our project where user can directly interact with the system by entering the symptoms of dieases and he/she will get the disease through various algorithms.
 
 ## Project_ML.ipynb
-
 This is the jupyter notebook which consist of complete code. This is used to explain the working of each and every module used in the project.
 
 ## GUI IMG.png
-
 This file contains the screenshot of the built GUI which shows the working of the system
 
 # Working with GUI
