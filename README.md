@@ -7,32 +7,22 @@ HealthSage is a Python-based application that leverages machine learning to assi
 # Why HealthSage?
 
 In today’s world, health information needs are evolving rapidly, influencing how individuals seek medical advice. Many people face challenges when trying to:
-
-Navigate the vast amount of medical information available online.
-
-Understand complex medical terminology.
-
-Make informed decisions about their health.
+  1. Navigate the vast amount of medical information available online.
+  2. Understand complex medical terminology.
+  3. Make informed decisions about their health.
 
 HealthSage is built to address these challenges by providing an intuitive platform that:
-
-Predicts potential diseases based on symptoms.
-
-Simplifies medical information for better user understanding.
-
-Bridges the gap between users and medical professionals by offering actionable insights.
+  1. Predicts potential diseases based on symptoms.
+  2. Simplifies medical information for better user understanding.
+  3. Bridges the gap between users and medical professionals by offering actionable insights.
 
 # Features
 
-Symptom-Based Prediction: Users can input up to five symptoms to get predictions.
-
-Multiple Machine Learning Algorithms: Supports Decision Tree, Random Forest, Naive Bayes, and kNN for disease prediction.
-
-User-Friendly Interface: Built using Tkinter with a clean and intuitive design.
-
-Reset and Exit Options: Easy to reset inputs or exit the application.
-
-Dynamic Symptom Selection: Dropdown menus allow users to select symptoms from a predefined list.
+1. Symptom-Based Prediction: Users can input up to five symptoms to get predictions.
+2. Multiple Machine Learning Algorithms: Supports Decision Tree, Random Forest, Naive Bayes, and kNN for disease prediction.
+3. User-Friendly Interface: Built using Tkinter with a clean and intuitive design.
+4. Reset and Exit Options: Easy to reset inputs or exit the application.
+5. Dynamic Symptom Selection: Dropdown menus allow users to select symptoms from a predefined list.
 
 # Explanation of Files
 
