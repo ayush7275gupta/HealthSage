@@ -2,17 +2,37 @@
 
 # Problem Statement
 
-Health information needs are also changing the information seeking behavior and can be
-observed around the globe. Challenges faced by many people are looking online for health
-information regarding diseases, diagnoses and different treatments. If a recommendation system
-can be made for doctors and medicine while using review mining will save a lot of time. In this
-type of system, the user face problem in understanding the heterogeneous medical vocabulary as
-the users are laymen. User is confused because a large amount of medical information on
-different mediums are available.The idea behind recommender system is to adapt to cope with the special requirements of the health domain related with users.
+HealthSage is a Python-based application that leverages machine learning to assist users in preliminary disease detection based on their symptoms. Designed with a user-friendly graphical interface powered by Tkinter, HealthSage aims to simplify the often overwhelming process of health information gathering. By utilizing machine learning algorithms such as Decision Tree, Random Forest, Naive Bayes, and k-Nearest Neighbors (kNN), the application provides reliable predictions and serves as an aid for users to understand potential health concerns before consulting a medical professional.
 
-# Registration Number
+# Why HealthSage?
 
-- 21BHI10055 Ayush Gupta
+In today’s world, health information needs are evolving rapidly, influencing how individuals seek medical advice. Many people face challenges when trying to:
+
+Navigate the vast amount of medical information available online.
+
+Understand complex medical terminology.
+
+Make informed decisions about their health.
+
+HealthSage is built to address these challenges by providing an intuitive platform that:
+
+Predicts potential diseases based on symptoms.
+
+Simplifies medical information for better user understanding.
+
+Bridges the gap between users and medical professionals by offering actionable insights.
+
+# Features
+
+Symptom-Based Prediction: Users can input up to five symptoms to get predictions.
+
+Multiple Machine Learning Algorithms: Supports Decision Tree, Random Forest, Naive Bayes, and kNN for disease prediction.
+
+User-Friendly Interface: Built using Tkinter with a clean and intuitive design.
+
+Reset and Exit Options: Easy to reset inputs or exit the application.
+
+Dynamic Symptom Selection: Dropdown menus allow users to select symptoms from a predefined list.
 
 # Explanation of Files
 
@@ -52,7 +72,7 @@ Select 5 Symptoms from the dropdown menu which are labelled as Symptom 1, Sympto
 
 ## Step 3:
 
-As per user interest,he/she can predict the disease using different algorithms such as Decision tree algorithm, Random forest algorithm, Naive bayes algorithm and K-Nearest neighbour. According to algorithm click on buttons:</br>
+As per user interest, user can predict the disease using different algorithms such as Decision tree algorithm, Random forest algorithm, Naive bayes algorithm and K-Nearest neighbour. According to algorithm click on buttons:</br>
 Press Prediction 1 for Decision tree algorithm</br>
 Press Prediction 2 for Random forest algorithm</br>
 Press Prediction 3 for Naive bayes algorithm</br>
